@@ -1,10 +1,11 @@
 import Card from './components/Card/Card';
+import "./App.css";
 
 const App = () => {
   return(
-    <div style={{marginTop: '12%'}}>
+    <main className="app">
       <Card />
-    </div>
+    </main>
   )
 }
 

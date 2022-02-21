@@ -1,5 +1,7 @@
 body {
   margin: 0;
+  min-height: 100vh;
+  align-items: center;
   background-color: #202632;
   color: #D7E7F1;
   font-family: 'Manrope', sans-serif;

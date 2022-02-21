@@ -1,11 +1,10 @@
 .card {
+	height: 200px;
 	width: 375px;
 	padding: 20px;
 	background-color: #313A49;
 	text-align: center;
 	border-radius: 10px;
-	margin-left: auto;
-	margin-right: auto;
 	position: relative;
 	box-shadow: 0 0 20px #313A49;
 }
@@ -52,6 +51,7 @@
 @media (max-width: 500px) {
 	.card {
 		width: 200px;
+		height: 250px;
 	}
 
 	.container {
