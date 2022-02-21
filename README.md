@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/eduardo732/advice-generator-app)
-- Live Site URL: [Add live site URL here](https://advice-generator-eifr.herokuapp.com/)
+- Solution URL: [eduardo732](https://github.com/eduardo732/advice-generator-app)
+- Live Site URL: [heroku](https://advice-generator-eifr.herokuapp.com/)
 
 ## My process
 
@@ -47,5 +47,5 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [Eduardo Fuentes](https://github.com/eduardo732)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/eduardo732)
+- Frontend Mentor - [eduardo732](https://www.frontendmentor.io/profile/eduardo732)
 
