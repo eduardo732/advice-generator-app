@@ -1,8 +1,9 @@
+import Card from './components/Card/Card';
 
 const App = () => {
   return(
-    <div>
-      Hola Mundo!
+    <div style={{marginTop: '12%'}}>
+      <Card />
     </div>
   )
 }

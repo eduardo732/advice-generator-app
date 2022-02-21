@@ -1,0 +1,50 @@
+.card {
+	width: 375px;
+	padding: 20px;
+	background-color: #313A49;
+	text-align: center;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	box-shadow: 0 0 20px #313A49;
+}
+
+.card h3 {
+	color: #45C58E;
+	font-size: 13px;
+	margin-bottom: 25px;
+}
+
+.card p {
+	font-size: 20px;
+	margin-bottom: 25px;
+	font-weight: 800;
+	margin-bottom: 25px;
+}
+.card img {
+	width: 80%;
+	margin-bottom: 50px;
+}
+
+.container {
+	background-color: #53FFA9;
+	position: absolute;
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	top: 88%;
+	left:45%;
+}
+
+.container:hover {
+	transition: 0.5s;
+	box-shadow: 0 0 20px #53FFA9;
+}
+.button {
+	background-image: url("./icon-dice.svg");
+	background-repeat: no-repeat;
+	height: 40px;
+	width: 40px;
+	margin: 14px 13px;
+}
