@@ -48,3 +48,13 @@
 	width: 40px;
 	margin: 14px 13px;
 }
+
+@media (max-width: 500px) {
+	.card {
+		width: 200px;
+	}
+
+	.container {
+		left:40%;
+	}
+}
